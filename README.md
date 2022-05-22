@@ -9,4 +9,5 @@ Some of the things I'm interested in:
 
 Right now working on an interactive narrative game set in a low fantasy setting, inspired ny fables like those from Aesop:
 
-https://user-images.githubusercontent.com/6498610/151410415-6349a57f-489b-41e4-95a5-feeafbcf4be8.mp4
+https://user-images.githubusercontent.com/6498610/169685140-eaf22810-6262-49bc-8d59-de3810bc3d37.mp4
+
