@@ -7,7 +7,7 @@ Some of the things I'm interested in:
 - distributed computing on top of traditional web infrastructure
 - interactive generative media (ex using GANs and language models)
 
-Right now working on an interactive narrative game set in a low fantasy setting, inspired ny fables like those from Aesop:
+Right now working on an interactive narrative game set in a low fantasy setting, inspired ny fables like those from Aesop 🐭
 
 
 
