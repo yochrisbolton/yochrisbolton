@@ -1,13 +1,5 @@
-### Yo 👋
+### Hey, I’m Chris 👋
 
-I'm Chris Bolton. I'm into a wide range of subjects, covering both Software and real-world problems.
+I'm a Senior Software Engineer with a passion for building scalable systems and solving complex problems. I specialize in high-performance applications and modular architecture.
 
-Some of the things I'm interested in:
-- general purpose recommendation systems
-- distributed computing on top of traditional web infrastructure
-- interactive generative media (ex using GANs and language models)
-
-Right now working on an interactive narrative game set in a low fantasy setting, inspired ny fables like those from Aesop 🐭
-
-
-
+Always learning, always optimizing. Let's build something impactful.
